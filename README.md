@@ -29,5 +29,3 @@ To get started with your custom WordPress theme, simply clone this repository an
 4. Activate the theme from your WordPress admin panel.  
 5. Start building your website with your custom theme!
 
-## License
-This WordPress theme template is open-source and available under the MIT License.
